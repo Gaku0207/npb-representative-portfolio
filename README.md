@@ -1,4 +1,8 @@
 NPB 日本代表予測選出システム　プロトタイプ
+[トップページ](top_page.png)
+[日本代表選出結果](representative_result.png)
+[球団別分析](team_analysis.png)
+
 
 NPB（日本プロ野球）の公式成績データをもとに、独自の評価指標（Score）を用いて
 日本代表候補選手を自動選出するWebアプリケーションです。
