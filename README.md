@@ -1,7 +1,10 @@
 NPB 日本代表予測選出システム　プロトタイプ
 [トップページ](top_page.png)
-[日本代表選出結果](representative_result1.png)(representative_result2.png)(representative_result3.png)
-[球団別分析](team_analysis1.png)team_analysis2.png)(team_analysis3.png)
+[日本代表選出結果_野手](representative_result1.png)
+[日本代表選出結果＿投手](representative_result2.png)
+[球団別分析＿総合成績](team_analysis1.png)
+[球団別分析＿野手](team_analysis2.png
+)[球団別分析＿投手](team_analysis3.png)
 
 
 NPB（日本プロ野球）の公式成績データをもとに、独自の評価指標（Score）を用いて
